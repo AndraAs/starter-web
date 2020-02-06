@@ -9,6 +9,7 @@ keep adding text
 ## Deployment
 
 ## How To Contribute
+fork repo and issue pull
 
 Sample website with plenty of files for demos
 ###Copyright
