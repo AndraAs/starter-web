@@ -11,3 +11,5 @@ keep adding text
 ## How To Contribute
 
 Sample website with plenty of files for demos
+###Copyright
+git training 2022 
