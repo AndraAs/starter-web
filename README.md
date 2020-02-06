@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work
 HI
 ## Purpose
 
-## Deplyment
+## Deployment
 
 ## How To Contribute
 
