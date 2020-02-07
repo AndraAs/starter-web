@@ -1,5 +1,5 @@
 # Starter Web Project
-adding a line for rebasing; MORE CHANGES FROM MYFEATURE BRANCH
+update for emergency fix after stash
 another line
 This repository is for showing how Git and GitHub work
 
