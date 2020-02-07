@@ -15,4 +15,4 @@ fork repo and issue pull
 
 Sample website with plenty of files for demos
 ###Copyright
-git training 2022 
+git training 2022.All rights reserved 
